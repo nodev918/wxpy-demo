@@ -1,1 +1,1 @@
-# wxpy-demo
+# wxpython
